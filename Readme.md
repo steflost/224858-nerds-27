@@ -1,7 +1,7 @@
 # Личный проект «Нёрдс»
 
 * Студент: [Степан Флоридов](https://up.htmlacademy.ru/htmlcss/27/user/224858).
-* Наставник: [Оксана Федорова]. (https://htmlacademy.ru/profile/oksana).
+* Наставник: [Оксана Сергеева](https://htmlacademy.ru/profile/oksana).
 
 ---
 
